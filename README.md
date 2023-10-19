@@ -4,3 +4,4 @@ Project yang dibahas adalah project mengenai pengenalan suara atau voice recogni
 Pengaplikasiannya di bidang mekatronika salah satunya adalah dapat menyambungkannya dengan alat alat elektronik sehari-hari ataupun kendaraan pribadi melalui perangkat mobile.
 Di projek aslinya dijelaskan cara penyambungannya dengan Android dan IOS. Dijelaskan juga beberapa kode untuk menjalankan perintah yang diinginkan. Disana juga dijelaskan tentang masalah permission di perangkat mobile yang harus diulik terlebih dahulu. Disana juga dijelaskan API dari project ini
 Di project ini juga terdapat plugin yang sudah di buat sebelumnya.
+Poject ini juga merupakan project yang sama dengan speech to text, tetapi bisa di gunakan di perangkat mobile terutama UI nya
