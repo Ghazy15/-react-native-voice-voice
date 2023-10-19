@@ -5,3 +5,4 @@ Pengaplikasiannya di bidang mekatronika salah satunya adalah dapat menyambungkan
 Di projek aslinya dijelaskan cara penyambungannya dengan Android dan IOS. Dijelaskan juga beberapa kode untuk menjalankan perintah yang diinginkan. Disana juga dijelaskan tentang masalah permission di perangkat mobile yang harus diulik terlebih dahulu. Disana juga dijelaskan API dari project ini
 Di project ini juga terdapat plugin yang sudah di buat sebelumnya.
 Poject ini juga merupakan project yang sama dengan speech to text, tetapi bisa di gunakan di perangkat mobile terutama UI nya
+Kesimpulannya, project ini merupakan project mengenai cara membuat voice recognition pada Native React pada perangkat mobile, tetapi juga bisa dikembangkan kembali dengan menyambungkannya dengan objek elektronik di sekitar kita.
