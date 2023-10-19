@@ -6,3 +6,5 @@ Di projek aslinya dijelaskan cara penyambungannya dengan Android dan IOS. Dijela
 Di project ini juga terdapat plugin yang sudah di buat sebelumnya.
 Poject ini juga merupakan project yang sama dengan speech to text, tetapi bisa di gunakan di perangkat mobile terutama UI nya
 Kesimpulannya, project ini merupakan project mengenai cara membuat voice recognition pada Native React pada perangkat mobile, tetapi juga bisa dikembangkan kembali dengan menyambungkannya dengan objek elektronik di sekitar kita.
+
+project asli : https://github.com/react-native-voice/voice.git
